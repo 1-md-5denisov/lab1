@@ -13,7 +13,7 @@ def spinner():
     back(100)
     right(120)
     forward(100)
-    dot(120, 'green')
+    dot(120, 'purple')
     back(100)
     right(120)
     forward(100)
